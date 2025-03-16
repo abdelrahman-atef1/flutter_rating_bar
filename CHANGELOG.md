@@ -1,3 +1,6 @@
+## 4.0.2
+* **FIXED** wrapAlignment was passed but never used.
+
 ## 4.0.1
 * Cleaned up deprecation warnings.
 

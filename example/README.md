@@ -1,6 +1,6 @@
 # flutter_rating_bar_example
 
-[More Detailed Example](https://github.com/sarbagyastha/flutter_rating_bar/blob/master/example/lib/main.dart)
+[More Detailed Example](https://github.com/abdelrahman-atef1/flutter_rating_bar/blob/master/example/lib/main.dart)
 
 
 #### Using Flutter Rating Bar
