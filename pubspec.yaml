@@ -1,6 +1,6 @@
 name: flutter_rating_bar_plus
 description: A simple yet fully customizable ratingbar for flutter which also include a rating bar indicator, supporting any fraction of rating.
-version: 4.0.1
+version: 4.0.2
 repository: https://github.com/abdelrahman-atef1/flutter_rating_bar
 homepage: https://abdelrahman-atef1.github.io
 
